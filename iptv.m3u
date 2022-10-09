@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
+#EXTM3U url-tvg="http://trada.info/epg.xml"
 
 #EXTINF:-1 tvg-id="anvienhd" group-title="So thich" tvg-logo="https://cdn.hqth.me/logo/thumbs/96.png", BTV9 - An Viên TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
