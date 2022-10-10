@@ -24,7 +24,7 @@ http://live.vthanhtivi.pw:8080/vtv1
 http://live.vthanhtivi.pw:8080/vtv3
 #EXTINF:-1 tvg-id="vtv5hd" group-title="So thich" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
 http://live.vthanhtivi.pw:8080/vtv5
-#EXTINF:-1 tvg-id="vtv6hd" group-title="So thich" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6 FPT
+#EXTINF:-1 tvg-id="" group-title="So thich" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ HD FPT
 http://live.vthanhtivi.pw:8080/vtv6
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
@@ -46,7 +46,7 @@ https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 https://api.vthanhtivi.pw/v1/getlink/vtvgo/7
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 https://api.vthanhtivi.pw/v1/getlink/vtvgo/163
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV6 HD
+#EXTINF:-1 tvg-id="" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7 HD
